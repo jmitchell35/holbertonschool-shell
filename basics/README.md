@@ -14,3 +14,4 @@ Basics scripts for learning the shell
 11-lists displays the content of active wd, parent directory and /boot directories as a long format list
 12-file_type displqys file type of a iamafile located in /tmp
 13-symbolic_link creates a symbolic link to /bin/ls
+14-copy_html copies all html files from active wd to parent directory
