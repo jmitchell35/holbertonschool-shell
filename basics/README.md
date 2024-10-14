@@ -9,3 +9,4 @@ Basics scripts for learning the shell
 6-firstdirectory creates a directory named my_first_directory in the temporary files directory
 7-movethatfile moves file betty from tmp dir to /tmp/my_first_directory
 8-firstdelete deletes the betty file in the tmp/my_first_directory
+9-firstdirdeletion deletes my_first_directory in the temporary files directory
