@@ -13,3 +13,4 @@ Basics scripts for learning the shell
 10-back changes the cwd to the previous one
 11-lists displays the content of active wd, parent directory and /boot directories as a long format list
 12-file_type displqys file type of a iamafile located in /tmp
+13-symbolic_link creates a symbolic link to /bin/ls
