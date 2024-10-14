@@ -16,3 +16,4 @@ Basics scripts for learning the shell
 13-symbolic_link creates a symbolic link to /bin/ls
 14-copy_html copies all html files from active wd to parent directory
 15-lets_move moves all files starting with uppercase letter to /tmp/u
+16-clean_emacs cleans all temporary files created by emacs from working directory
