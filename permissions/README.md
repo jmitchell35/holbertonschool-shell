@@ -5,3 +5,4 @@ Learning user permissions scripts
 3-new_owner changes the owner of the file hello to the user betty
 4-file creates an empty file named hello
 5-execute adds execute permission to the owner of the hello file
+6-multiple_permissions changes permissions of the file to execute for owner and group owner, read for other users
