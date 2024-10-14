@@ -7,3 +7,4 @@ Basics scripts for learning the shell
 4-listmorefiles displays cwd content as a list showing hidden files
 5-listfilesdigitonly lists files displaying users and groups numerically
 6-firstdirectory creates a directory named my_first_directory in the temporary files directory
+7-movethatfile moves file betty from tmp dir to /tmp/my_first_directory
