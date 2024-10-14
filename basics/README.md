@@ -11,3 +11,4 @@ Basics scripts for learning the shell
 8-firstdelete deletes the betty file in the tmp/my_first_directory
 9-firstdirdeletion deletes my_first_directory in the temporary files directory
 10-back changes the cwd to the previous one
+11-lists displays the content of active wd, parent directory and /boot directories as a long format list
