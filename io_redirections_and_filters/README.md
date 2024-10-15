@@ -4,3 +4,4 @@
 3-twofiles displays content of both /etc/passwd and /etc/hosts files
 4-lastlines prints last 10 lines of /etc/passwd file
 5-firstlines displays first 10 lines, same file
+6-third_line displays only third line of /etc/passwd file
