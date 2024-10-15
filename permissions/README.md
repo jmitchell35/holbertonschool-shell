@@ -8,3 +8,4 @@ Learning user permissions scripts
 6-multiple_permissions changes permissions of the file to execute for owner and group owner, read for other users
 7-everybody gives executable permission to owner, group owner and other users
 8-James_Bond removes permissions for owner and group owner, sets all permission to other users
+9-John_Doe sets permissions as so : -rwxr-x-wx
