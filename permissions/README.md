@@ -9,3 +9,4 @@ Learning user permissions scripts
 7-everybody gives executable permission to owner, group owner and other users
 8-James_Bond removes permissions for owner and group owner, sets all permission to other users
 9-John_Doe sets permissions as so : -rwxr-x-wx
+10-mirror_permissions mirrors hello file permissions on olleh file permissions
