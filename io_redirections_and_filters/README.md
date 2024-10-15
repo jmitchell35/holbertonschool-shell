@@ -18,3 +18,4 @@
 18-letteronly matches lines starting with a letter char in /ssh/sshd_config file
 19-AZ translates A to Z and c to e from input
 20-hiago deletes C's and c's from input
+21-reverse reverses its input
