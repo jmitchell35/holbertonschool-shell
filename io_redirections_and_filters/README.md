@@ -16,3 +16,4 @@
 15-countthatword counts the number of occurences of the word bin inside /etc/passwd file
 17-hidethisword displays line not containing bin pattern
 18-letteronly matches lines starting with a letter char in /ssh/sshd_config file
+19-AZ translates A to Z and c to e from input
