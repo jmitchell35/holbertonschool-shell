@@ -10,3 +10,4 @@
 9-duplicate_last_line duplicates last line of iacta file and appends it to file
 10-no_more_js deletes all regular js files excluding directories
 11-directories counts the number of directories and subdirectories in cwd
+12-newest_files displays 10 newest files in cwd one file per line
