@@ -13,3 +13,4 @@
 12-newest_files displays 10 newest files in cwd one file per line
 13-unique takes a list with duplicates as input and ouputs unique occurences
 14-findthatword finds root occurences in /etc/passwd file
+15-countthatword counts the number of occurences of the word bin inside /etc/passwd file
