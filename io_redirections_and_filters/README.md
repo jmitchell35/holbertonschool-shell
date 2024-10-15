@@ -14,3 +14,4 @@
 13-unique takes a list with duplicates as input and ouputs unique occurences
 14-findthatword finds root occurences in /etc/passwd file
 15-countthatword counts the number of occurences of the word bin inside /etc/passwd file
+17-hidethisword displays line not containing bin pattern
