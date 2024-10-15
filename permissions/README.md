@@ -11,3 +11,4 @@ Learning user permissions scripts
 9-John_Doe sets permissions as so : -rwxr-x-wx
 10-mirror_permissions mirrors hello file permissions on olleh file permissions
 11-directories_permissions sets subdirectories permissions to execute for all users
+12-directory_permissions creates a new my_dir directory with 751 permissions
