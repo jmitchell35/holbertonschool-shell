@@ -14,3 +14,4 @@ Learning user permissions scripts
 12-directory_permissions creates a new my_dir directory with 751 permissions
 13-change_group changes group owner of hello file to school
 14-change_owner_and_group changes all files and directories owner to vincent and group owner to staff
+15-symbolic_link_permissions changes synbolic link owner and group owner to vincent:staff
