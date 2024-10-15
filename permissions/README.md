@@ -13,3 +13,4 @@ Learning user permissions scripts
 11-directories_permissions sets subdirectories permissions to execute for all users
 12-directory_permissions creates a new my_dir directory with 751 permissions
 13-change_group changes group owner of hello file to school
+14-change_owner_and_group changes all files and directories owner to vincent and group owner to staff
