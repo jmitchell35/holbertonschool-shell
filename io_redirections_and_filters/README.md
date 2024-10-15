@@ -7,3 +7,4 @@
 6-third_line displays only third line of /etc/passwd file
 7-file creates a file with catastrophic filename
 8-cwd_state prints the result of ls -la command into ls_cwd_content file (patches or creates)
+9-duplicate_last_line duplicates last line of iacta file and appends it to file
