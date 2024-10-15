@@ -19,3 +19,4 @@
 19-AZ translates A to Z and c to e from input
 20-hiago deletes C's and c's from input
 21-reverse reverses its input
+22-users_and_homes outputs sorted list of users with home directories
