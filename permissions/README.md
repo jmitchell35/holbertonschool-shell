@@ -6,3 +6,4 @@ Learning user permissions scripts
 4-file creates an empty file named hello
 5-execute adds execute permission to the owner of the hello file
 6-multiple_permissions changes permissions of the file to execute for owner and group owner, read for other users
+7-everybody gives executable permission to owner, group owner and other users
