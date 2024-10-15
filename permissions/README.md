@@ -12,3 +12,4 @@ Learning user permissions scripts
 10-mirror_permissions mirrors hello file permissions on olleh file permissions
 11-directories_permissions sets subdirectories permissions to execute for all users
 12-directory_permissions creates a new my_dir directory with 751 permissions
+13-change_group changes group owner of hello file to school
