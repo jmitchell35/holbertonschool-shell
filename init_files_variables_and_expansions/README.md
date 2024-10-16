@@ -10,3 +10,4 @@
 10-love_exponent_breath displays the result of env var BREATH to the power of env var LOVE
 11-binary_to_decimal converts env var BINARY to decimal number
 12-combinations converts env var BINARY beholding binary number to decimal number
+13-print_float prints NUM float with two decimal places
