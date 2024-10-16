@@ -7,3 +7,4 @@
 7-create_global_variable creates env var BEST containing string School
 8-true_knowledge adds 128 and var TRUEKNOWLEDGE
 9-divide_and_rule divides env var POWER by env var DIVIDE
+10-love_exponent_breath displays the result of env var BREATH to the power of env var LOVE
