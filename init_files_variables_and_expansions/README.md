@@ -11,3 +11,4 @@
 11-binary_to_decimal converts env var BINARY to decimal number
 12-combinations converts env var BINARY beholding binary number to decimal number
 13-print_float prints NUM float with two decimal places
+14-decimal_to_hexadecimal converts env var DECIMAL to hex
