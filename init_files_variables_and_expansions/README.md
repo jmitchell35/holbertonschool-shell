@@ -8,3 +8,5 @@
 8-true_knowledge adds 128 and var TRUEKNOWLEDGE
 9-divide_and_rule divides env var POWER by env var DIVIDE
 10-love_exponent_breath displays the result of env var BREATH to the power of env var LOVE
+11-binary_to_decimal converts env var BINARY to decimal number
+12-combinations converts env var BINARY beholding binary number to decimal number
