@@ -5,3 +5,4 @@
 5-local_variables prints a list of local, env var and functions
 6-create_local_variable creates local var BEST containing string School
 7-create_global_variable creates env var BEST containing string School
+8-true_knowledge adds 128 and var TRUEKNOWLEDGE
