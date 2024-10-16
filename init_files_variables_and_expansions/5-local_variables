@@ -1,2 +1,2 @@
 #!/bin/bash
-set | printenv | decalre -f | sort 
+set | printenv | declare -f | sort 
