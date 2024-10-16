@@ -6,3 +6,4 @@
 6-create_local_variable creates local var BEST containing string School
 7-create_global_variable creates env var BEST containing string School
 8-true_knowledge adds 128 and var TRUEKNOWLEDGE
+9-divide_and_rule divides env var POWER by env var DIVIDE
