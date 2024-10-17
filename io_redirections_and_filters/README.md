@@ -21,3 +21,4 @@
 20-hiago deletes C's and c's from input
 21-reverse reverses its input
 22-users_and_homes outputs sorted list of users with home directories
+23-empty_casks shows current wd and subd empty files and d, displaying just filenames
