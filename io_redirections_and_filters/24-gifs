@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lSR | find -type f -iname "*.gif" | sed 's/\.gif$//1'
