@@ -23,3 +23,4 @@
 22-users_and_homes outputs sorted list of users with home directories
 23-empty_casks shows current wd and subd empty files and d, displaying just filenames
 24-gifs lists all files with gif extension in current and subc dir, excluding dir, names displayed without ext, sorted by bytes values, case insensitive, one line per file
+25-acrostic decrypts an acrostic
